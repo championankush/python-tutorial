@@ -1,0 +1,37 @@
+# Python Tutorial Requirements
+# This file lists the Python packages used in this tutorial
+
+# Core Python libraries (usually included with Python)
+# No external installation needed for basic tutorial
+
+# Optional libraries for advanced sections
+# Uncomment the ones you want to use
+
+# Data Science and Analysis
+# pandas>=1.5.0
+# numpy>=1.21.0
+# matplotlib>=3.5.0
+# seaborn>=0.11.0
+
+# Web Development
+# flask>=2.0.0
+# requests>=2.25.0
+
+# Machine Learning
+# scikit-learn>=1.0.0
+
+# GUI Development
+# tkinter  # Usually included with Python
+
+# Game Development
+# pygame>=2.0.0
+
+# Testing
+# pytest>=6.0.0
+
+# Code Quality
+# black>=22.0.0
+# flake8>=4.0.0
+
+# Note: Most of the basic tutorial content doesn't require external packages
+# Install packages only when you reach the relevant sections 
